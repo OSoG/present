@@ -26,4 +26,14 @@ This is the result :
 
 I think this works fine for now..
 
+## 크기 조절
 
+https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown
+
+`![](./pic/pic1s.png =250x)` 처럼,
+
+`WIDTHxHEIGHT` 를 맞추어 주면 된다.
+
+위의 예는 HEIGHT 를 생략한 것이다.
+
+* 파일명 뒤에 한칸 띄라고 강조하셨다.
