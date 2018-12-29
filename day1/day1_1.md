@@ -1,5 +1,5 @@
 # 12월 29일
-![](images/2018-12-28_19-35-47.png =250x)
+![](images/2018-12-28_19-35-47.png){: width="" height="200"}
 
 
 # Meta-Analysis
